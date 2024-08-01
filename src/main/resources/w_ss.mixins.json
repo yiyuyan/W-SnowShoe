@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.wss.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "w_ss.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "PowderSnowBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
